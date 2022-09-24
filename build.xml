@@ -1,0 +1,6 @@
+&lt;?xml versi&quot;1.0&quot;?&gt;
+&lt;project name=&quot;Hello World Project&quot; default=&quot;info&quot;&gt;
+&lt;target name=&quot;info&quot;&gt;
+&lt;echo&gt; Hello World - Welcome to Simplilearn&lt;/echo&gt;
+&lt;/target&gt;
+&lt;/project&gt;
